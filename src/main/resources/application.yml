@@ -1,8 +1,5 @@
 server:
   port: 7070
-mybatis:
-  mapper-locations: classpatch:mapper/*.xml
-  typeAliasesPackage: com.application.model
 spring:
   datasource:
     name: post_item
